@@ -1,0 +1,24 @@
+{
+  "name": "exercicios-backend-typescript-tipos-dados-2",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duarteeigor/exercicios-backend-typescript-tipos-dados-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duarteeigor/exercicios-backend-typescript-tipos-dados-2/issues"
+  },
+  "homepage": "https://github.com/duarteeigor/exercicios-backend-typescript-tipos-dados-2#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
